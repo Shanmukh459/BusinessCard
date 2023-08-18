@@ -1,15 +1,13 @@
 import React from "react"
 import Info from "./components/Info"
-import About from "./components/About"
-import Interests from "./components/Interests"
+import Middle from "./components/Middle"
 import Footer from "./components/Footer"
 
 export default function App() {
     return (
         <main>
             <Info />
-            <About />
-            <Interests />
+            <Middle />
             <Footer />
         </main>
     )
