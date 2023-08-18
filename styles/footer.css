@@ -5,13 +5,12 @@ footer {
     align-items: center;
     padding: 20px 70px;
     margin-top: 20px;
-    border-radius: 0px 0px 8px 8px; 
-
+    border-radius: 0px 0px 14px 14px; 
 }
 
 .footer-icon {
     width: 25px;
     height: 25px;
     background-color: #918E9B;
-
+    border-radius: 2px;
 }
