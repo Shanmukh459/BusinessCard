@@ -1,7 +1,9 @@
 import React from "react"
+import twitter from "/images/twitter.png"
 
 export default function Footer() {
     return(
-        <h1>Footer component</h1>
+        <></>
+        // <img src={twitter} />
     )
 }
